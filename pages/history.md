@@ -14,14 +14,14 @@ A Piece of News: Finding Eudora Welty in the Newspaper
 
 
 You have to set the stage for a story. You have to have something to identify it. I used to take all the county newspapers and read them all. That’s what got me interested in what went on in the state of Mississippi. Just the naked news.
-- Eudora Welty, from More Conversations with Eudora Welty 
+Eudora Welty, from More Conversations with Eudora Welty 
 
 
 This project might begin with the question: Why? Why should we look for Eudora Welty in the newspaper?  Perhaps we are reluctant because we have an idea of what we will find when we search for Eudora Welty in the newspaper, in short: interviews, articles, reviews, and essays -- many of which are known and have been collected in Occasions, Conversations and More Conversations with Eudora Welty, A Writer’s Eye, The Eye of the Story, Eudora Welty: The Contemporary Reviews, and elsewhere. After browsing thousands and thousands of articles, across many, many newspapers and magazines, I can assure you that those are all there: the reviews, the essays, the interviews. It is all there. 
 We return to the question: Why? Why look when we know what we will find? Because it is all there in its wonderful, original timelessness, waiting to be revisited. Because it is all there and there is so much more. Because this is how and where Eudora Welty found herself in the newspaper, and where the world first met and got to know her. 
 While Welty scholars, especially Pearl McHaney and Peggy Whitman Prenshaw, have worked to collect many of the reviews of Welty’s work and interviews done with Welty, as well as the essays and reviews written by Welty that were published in major newspapers and magazines, as more and more of these and other periodicals are digitized and available to researchers, there is an opportunity to collect more, and to consider, and piece together a particular version of Welty’s life, as seen only in newspapers. For my project this includes: book reviews, essays, articles, interviews, advertisements, and so much more. I’m interested in these pieces of news as ephemera, as stamps of time and memory, in where and when Welty appears in newspapers and other periodicals, and in how she was presented to and known by readers in her time.
 
-—
+
 
 I first found Eudora Welty in the newspaper while working on a project related to V. S. Pritchett. In January of 1954, V. S. Pritchett wrote a review of The Ponder Heart - “Bossy Edna Earle Had a Word for Everything” - which is freely available to view on The New York Times website. I might have been satisfied with this reformatted version of Pritchett’s review had I not noticed the very tempting button at the top of the page - “archives.” I clicked it. 
 I’ll note here that before I noticed that tempting button I had been thinking how it would be nice to see Pritchett’s review in newsprint, exactly how it looked in 1954. 
@@ -32,7 +32,7 @@ I wondered what else I might find if I did a little more searching. Curiosity ca
 Researchers have the opportunity to find Eudora Welty in the newspaper as any reader might have during her time, while also looking for details that reveal Welty’s life and fictions in new ways, so that as much as digitized newspapers are a time capsule, they are also a telescope, allowing us to look back through time and find surprising visions of Eudora Welty. 
 	In this way, this project rests on a concept familiar to all readers of Eudora Welty’s works - the hold and release of memory. 
 
-—
+
 
 New York City may be the center of the literary world in America, but Eudora Welty’s reach went well beyond the New York Times. It was when I began searching other newspapers that I began to understand how much I didn’t know what I didn’t know. As was the case in the New York Times, Welty shows up in theatre sections, television listings, arts pages, and of course the books pages. Following the reviews of Welty’s books as they filtered across the country is its own interesting project. Welty’s travels around the country giving readings and collecting honorary degrees and speaking at literary events were well documented by local newspapers and often include photographs. Finally, perhaps an unexpected place to find Eudora Welty in the newspaper is alongside pop culture icons of her time. 
 One way we think of Welty might be as a famous author, but celebrity author feels like its own new category, yet another vision of Welty in her time. In this way, the more articles I look at, the more I understand that I’m seeing yet another side of Welty, different from the Welty in One Writer’s Beginnings and different still from the Welty Suzanne Marrs reveals in her biography of Welty. The Eudora Welty we find in the newspaper seems held in relief, abstract, as much a part of the news of the world as she is held separate from it, a view afforded us by that telescope of time. 
@@ -40,7 +40,7 @@ In her 1944 review of Virginia Woolf’s The Haunted House and Other Stories, We
 Historical newspapers and magazines, with their inherent wide narrative distance and palpability, are their own mirrors for reality, and offer a prismatic view of Welty, so many pieces of news across so many years scattered across so many columns of newsprint have a resounding orchestral effect, coming together here, bouncing off each other there. So that, at the discovery of each of these many pieces of news, one considers: Is this the same Eudora Welty? Or, better, who is this Eudora Welty? 
 Unpacking these questions is at the heart of this project. 
 
-—
+
 
 As much as Welty was known to the world, there was a prevailing idea that she stuck close to home. Perhaps this is due to her being categorized as a southern writer, so that she was always placed in Jackson in public perception. Perhaps it is due to Welty being portrayed as a shy and private person. 
 The life she presents in One Writer’s Beginnings doesn’t stray much from her family and home in Jackson. In her famous final sentences of One Writer’s Beginnings Welty defends her sheltered life as much as she reclaims the idea of shelter -  from being protection from the world, to the safekeeping of one’s spirit:  “A sheltered life can be a daring life as well. For all serious daring starts from within.”
