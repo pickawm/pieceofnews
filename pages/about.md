@@ -20,7 +20,7 @@ This is an ongoing rather than a comprehensive collection. As I find more source
 
 This is a project which considers Eudora Welty as a piece of news in her time, and how, when, and where readers found her in newspapers and magazines around the world, the visualization and contextualization of which are best understood via the map and timeline pages. 
 
-Due to syndication, there are many instances in which an article is repeated in various newspapers. Including these repeated articles should not be seen as a flaw in the data, but rather as points of illumination, as moments of confluence, such as on September 27, 2009, when readers across America opened the Parade Magazine insert in their newspapers and learned that actor Peter Sarsgaard is a “massive fan” of Eudora Welty and considers The Shoe Bird “the most charming thing ever.” 
+Due to syndication, there are many instances in which an article is repeated in various newspapers. Including these repeated articles should not be seen as a flaw in the data, but rather as points of illumination, as moments of confluence, such as on September 27, 2009, when readers across America opened the *Parade Magazine* insert in their newspapers and learned that actor Peter Sarsgaard is a “massive fan” of Eudora Welty and considers *The Shoe Bird* “the most charming thing ever.” 
 
-This project is about the instances in which Eudora Welty was a resounding headline in The New York Times as much as it is about the instances in which Eudora Welty was a gentle murmur, a brief mention in her local paper. 
+This project is about the instances in which Eudora Welty was a resounding headline in *The New York Times* as much as it is about the instances in which Eudora Welty was a gentle murmur, a brief mention in her local paper. 
 
