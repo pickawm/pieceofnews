@@ -20,9 +20,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title:
+# title:
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: 
+# tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Using digitized historical newspapers and periodicals, this project considers the reception of Eudora Welty, both how she was presented to and perceived by readers in her time, as well as where and when news about her work and life was published."
