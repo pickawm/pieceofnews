@@ -10,7 +10,7 @@ credits: true
 
 # About The Collection
 
-This is a collection of images from digitized historical newspapers that pulls together every instance, or as many as I have found, of Eudora Welty’s name in the newspaper. Included are: reviews, essays, interviews, television listings, advertisements, society columns, and so much more. I’m interested in these pieces of news as ephemera, as stamps of time and memory, and in where and when Eudora Welty appears in newspapers and other periodicals. 
+This is a collection of images from digitized historical newspapers that pulls together every instance, or as many as I have found, of Eudora Welty’s name in the newspaper. Included are: reviews, essays, interviews, television listings, advertisements, society columns, and so much more, some of which have been collected by Eudora Welty and by Welty scholars, especially Pearl McHaney and Peggy Whitman Prenshaw. This project builds on the good work of these and other previous scholars. I’m interested in these pieces of news as ephemera, as stamps of time and memory, and in where and when Eudora Welty appears in newspapers and other periodicals. 
 In large part, this project is about protection and exposure, hinging on the balance between two questions: How was Eudora Welty presented to and known by readers in her time? And: When Eudora Welty found her name in the newspaper, what version of herself did she see, “what eye in the world did she feel looking in on her?”
 
 
